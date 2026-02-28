@@ -1,0 +1,5 @@
+This is the first line of the sample file.
+This is the second line of the sample file.
+This is the third line of the sample file.
+Files are an essential part of programming.
+We can read, write, and append data to files.
